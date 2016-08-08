@@ -1,0 +1,99 @@
+nav {
+            background-color: #21B6A8;
+}
+        
+#status {
+            margin-left: 20px;
+            position: relative;
+            top: 20px;
+}
+        
+.brand-logo {
+            line-height: 50px;
+}
+
+
+.chat-box{
+	position: fixed;
+	bottom: 0;
+}
+.talk-bubble {
+	margin: 40px;
+  display: inline-block;
+  position: relative;
+	width: 200px;
+	height: auto;
+	background-color: lightyellow;
+}
+ .my-card:after{
+	content: ' ';
+	position: absolute;
+	width: 0;
+	height: 0;
+  	left: auto;
+	right: -20px;
+	bottom: 0px;
+	border: 12px solid;
+	border-color: transparent transparent #81d4fa #81d4fa;
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0;
+}
+
+.my-card{
+	margin: 1rem 1rem 1rem 1rem;
+	max-width: 60%;
+	display: inline-block;
+}
+
+.my-card .card-action{
+	border-top : 0px;
+}
+
+.botText{
+	position: absolute;
+	bottom : 0;
+	right : 0;
+}
+
+i.small
+{
+	font-size : 1rem;
+	color : #004d40;
+}
+
+a{
+	color : #004d40;
+}
+.card-content.black-text{
+	max-height:5.5em;
+	overflow:hidden;
+	
+}
+.my-material-icons{
+	position: relative;
+	top:1.2em;
+	padding-left:.2em;
+}
+.chat-box
+{
+	width: 50%;
+}
+nav .brand-logo{
+	padding-left: .6em;
+}
+nav .brand-logo1{
+	font-size:.25em;
+	padding-top: .25em;
+}
+body{
+	border:1px solid black;
+	max-width: 70%;
+	margin:auto;
+	padding-top: 1em;
+}
+p{
+	word-wrap: break-word;
+
+}
+#name{
+	font-size:1.25em;
+}

@@ -1,0 +1,44 @@
+{
+	"contactList": [{
+	    "profilePic": "image/1.jpg",
+		"Name": "Anand",
+		"id": "1",
+		"status": "Available"
+		
+	}, {
+	     "profilePic": "image/2.jpg",
+		"Name": "Karan",
+		"id": "2",
+		"status": "Available"
+	}, {
+	     "profilePic": "image/3.jpg",
+		"Name": "Shubham",
+		"id": "3",
+		"status": "Available"
+	}, {
+	    "profilePic": "image/4.jpg",
+		"Name": "Faraz",
+		"id": "4",
+		"status": "Available"
+	}, {
+	    "profilePic": "image/5.jpg",
+		"Name": "Aman",
+		"id": "5",
+		"status": "Available"
+	}, {
+	     "profilePic": "image/6.jpg",
+		"Name": "Venki",
+		"id": "6",
+		"status": "Available"
+	}, {
+	     "profilePic": "image/7.jpg",
+		"Name": "",
+		"id": "7",
+		"status": "Available"
+	}, {
+	    "profilePic": "image/8.jpg",
+		"Name": "Anand",
+		"id": "8",
+		"status": "Available"
+	}]
+}
