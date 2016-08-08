@@ -41,6 +41,7 @@ nav {
 .my-card{
 	margin: 1rem 1rem 1rem 1rem;
 	max-width: 60%;
+	min-width:15%;
 	display: inline-block;
 }
 
@@ -95,5 +96,11 @@ p{
 
 }
 #name{
-	font-size:1.25em;
+	font-size: 8.00em;
+    position: relative;
+    bottom: .35em;
+    left: .25em;
+}
+.collection .collection-item.avatar{
+	min-height: 65px;
 }
